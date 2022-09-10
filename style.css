@@ -1,0 +1,10 @@
+body{
+          background:gray;
+}
+h1{
+          margin-left:350px;
+          margin-right:350px;
+          font-size: 40px;
+          font-family: serif;
+          justify-content: center;
+}
